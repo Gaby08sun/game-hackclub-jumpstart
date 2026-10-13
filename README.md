@@ -6,17 +6,25 @@ A minimalist 2D precision platformer built with Godot for Hack Club Haven.
 https://gaby008.itch.io/jumpstart
 
 
+
 ​Controls
 
+
 ​Move Left / Right: A / D or Left / Right Arrow
+
 ​Jump: Space / Up Arrow
+
 ​Quick Restart: R
+
 
 
 
 ​Features
 
+
 ​5 Single-Screen Levels
+
 ​Death Counter
+
 ​Instant Respawn
 
